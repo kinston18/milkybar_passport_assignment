@@ -25,7 +25,7 @@
 }
 
 
-card_cam{
+ard_cam{
     width: 314px;
     height: 365px;
     top: 18px;
@@ -37,7 +37,6 @@ card_cam{
 }
 
 canvas{
-    
 width: 350px;
 height: 571px;
 top: -646px;
