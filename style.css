@@ -12,14 +12,35 @@
     align-items: center;
     justify-content: center;
 }
-.card{
-    width: 400px;
+.card-main{
+    width: 350px;
+    height: 571px;
+    top: 73px;
+    left: 297px;
     background: #fff;
     padding:40px ;
-    border-radius: 15px;
+    border-radius: 23px;
     text-align: center;
     color: #333;
 }
-card h1{
+
+
+card_cam{
+    width: 314px;
+    height: 365px;
+    top: 18px;
+    left: 18px;
+    border-radius: 7px;
+    border: 3px;
+
+
+}
+
+canvas{
     
+width: 350px;
+height: 571px;
+top: -646px;
+left: 297px;
+border-radius: 23px;
 }
