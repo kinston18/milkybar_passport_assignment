@@ -32,5 +32,5 @@ init();
 
 var context = canvas.getContext('2d');
 snap.addEventListener("click",function(){
-    context.drawImage(video, 0 , 350, 571);
+    context.drawImage(video, 110, 100 , 250, 350);
 });
