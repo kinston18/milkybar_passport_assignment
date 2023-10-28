@@ -8,8 +8,8 @@ const errorMsgElement = document.getElementById('span#ErrorMsg')
 const constraints = {
     audio : false,
     video: {
-        width:350,
-        height:571
+        width:314,
+        height:365
     }
 };
 
