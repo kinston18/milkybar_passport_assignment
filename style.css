@@ -15,6 +15,13 @@
     justify-content: center;
 }
 
+.main{
+    width: 100%;
+    height: 200vh;
+    background: #d1d1d1;
+    align-items: center;
+    justify-content: center;
+}
 .card-main
 {
     width: 400px;
@@ -66,38 +73,56 @@ border-radius: 23px;
 
 #enter-name{
     position: absolute;
-    bottom: 134px;
+    bottom: 136px;
     right: 540px;
     border: none;
 }
 
+#place{
+    position: absolute;
+    bottom: px;
+}
 #save-name{
     position: absolute;
-    bottom: 49px;
+    bottom: 52px;
     right: 580px;
     border: none;
 }
 
-
-
 .image-container
 {
 background-color: #FAEA18;
-width: 100%;
-height: 200vh;
-display: flex;
+width: 400px;
+height: 650px;
+position: relative;
+top: 500px;
+right: 120px;
+left: 297px;
+border-radius: 23px;
+
+text-align: center;
 align-items: center;
 justify-content: center;
-position: relative;
-width: 1000px;
-height: 600px;
+
 }
 
-.image
-{
+.bg{
     position: absolute;
-    top: 10;
-    left: 200;
-    width: 50vh;
-    height: 50vh;
+    bottom: 0px;
+}
+
+.logo{
+    position: absolute;
+    top: 10px;
+    right: 50pxpx;
+}
+
+.passport{
+    position: absolute;
+    width: 299.83px;
+height: 384.25px;
+top: 150.48px;
+left: 36.09px;
+rotate: -11.77 deg;
+
 }
