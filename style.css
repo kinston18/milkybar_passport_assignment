@@ -29,17 +29,30 @@
     color: #333;
 }
 
+#video{
+    position: relative;
+    top: -372px;
+    border-radius: 30px;
+}
+
 #video-wrap
 {
-    position: relative;
+    position: absolute;
+}
+
+#snap{
+    position: absolute;
+    bottom: 200px;
+    left: 640px;
 }
 
 #closeButton
 {
-    top: 10px;
-    right: 10px;
+    position: absolute;
+    top: 100px;
+    right: 520px;
     z-index: 1;
-    border: none;
+    border:none;
 }
 
 canvas
@@ -50,6 +63,15 @@ top: -646px;
 left: 297px;
 border-radius: 23px;
 }
+
+#enter-name{
+    position: absolute;
+    bottom: 130px;
+    right: 540px;
+    border: none;
+}
+
+
 
 .image-container
 {
