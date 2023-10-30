@@ -66,8 +66,15 @@ border-radius: 23px;
 
 #enter-name{
     position: absolute;
-    bottom: 130px;
+    bottom: 134px;
     right: 540px;
+    border: none;
+}
+
+#save-name{
+    position: absolute;
+    bottom: 49px;
+    right: 580px;
     border: none;
 }
 
