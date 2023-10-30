@@ -113,7 +113,7 @@ justify-content: center;
 
 .logo{
     position: absolute;
-    top: 10px;
+    top: 5px;
     right: 50pxpx;
 }
 
@@ -121,8 +121,30 @@ justify-content: center;
     position: absolute;
     width: 299.83px;
 height: 384.25px;
-top: 150.48px;
-left: 36.09px;
+top: 110.48px;
+left: 16.70px;
 rotate: -11.77 deg;
+}
+.dp{
+    position: relative;
+    top: 223px;
+    right: 189px;
+}
 
+.home-btn{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.sov{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.download{
+    position: absolute;
+    bottom: 25px;
+    left: 12px;
 }
